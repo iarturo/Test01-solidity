@@ -11,3 +11,4 @@ Forzar cambio YOLO
 Cambio en nueva-rama para YOLO
 
 otro intento
+mas detalles
